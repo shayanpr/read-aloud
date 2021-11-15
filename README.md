@@ -39,8 +39,9 @@
 </div>
 
 <hr />
-Lets have another line here just to check if I can upload this. 
-This is the second line I'm adding becouse reasons.
+<div> Lets have another line here just to check if I can upload this. 
+This is the second line I'm adding becouse reasons. </div>
+<hr />
 ## Reviews
 >First impressions are super. Natural flowing voice and very helpful for multitasking and also giving my eyes a rest. 
 
